@@ -5,6 +5,10 @@
 
 ## 2. Install Java
 
+https://www.oracle.com/es/java/technologies/downloads/#jdk25-windows
+
+<img width="1714" height="939" alt="image" src="https://github.com/user-attachments/assets/2c33ca8b-9fdf-4412-a0c5-0ea2d58f55ec" />
+
 ## 3. Install Maven
 
 **Binary distribution**
