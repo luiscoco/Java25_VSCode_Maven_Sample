@@ -144,7 +144,9 @@ Prompt: "please run the java project"
 
 ## 11. Running the application with Codex or Copilot
 
-ompt: "please run the java project"
+Pompt: "please run the java project"
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/f0c29199-9138-42be-b213-b7ad6b295bc9" />
 
 ## 12. How to Execute the Java Application with Maven
 
