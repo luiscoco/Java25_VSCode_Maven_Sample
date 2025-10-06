@@ -12,6 +12,14 @@ https://www.oracle.com/es/java/technologies/downloads/#jdk25-windows
 
 <img width="1714" height="939" alt="image" src="https://github.com/user-attachments/assets/2c33ca8b-9fdf-4412-a0c5-0ea2d58f55ec" />
 
+We confirm the Java version installed:
+
+```
+java -version
+```
+
+<img width="963" height="122" alt="image" src="https://github.com/user-attachments/assets/611aa674-7567-45e5-9df1-39a0aa04c1c2" />
+
 ## 3. Install Maven
 
 **Binary distribution**
