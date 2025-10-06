@@ -70,14 +70,21 @@ We first press the following Keyword combination "Ctrl+Shift+P" and select the m
 
 <img width="1455" height="552" alt="image" src="https://github.com/user-attachments/assets/fa2941d7-46f4-436e-9a93-f2ab0548f7d9" />
 
-
 We can review the new Java project folders and files structure
+
+<img width="518" height="619" alt="image" src="https://github.com/user-attachments/assets/7d11ba23-d6a0-4887-bd4a-cbfc99a40aa4" />
 
 We also can see the code (Main.java):
 
+<img width="714" height="335" alt="image" src="https://github.com/user-attachments/assets/96066f0f-7219-4121-af4d-9194eeba451e" />
+
 Also we review the dependencies (pom.xml):
 
+<img width="1911" height="633" alt="image" src="https://github.com/user-attachments/assets/a3b21873-2573-4c68-8ab4-46e956129d78" />
+
 ## 7. Run the application with VSCode
+
+<img width="650" height="639" alt="image" src="https://github.com/user-attachments/assets/6ae80ae1-adcc-4fc3-ba04-7306080bbda8" />
 
 ## 8. We can create a "launch.json" file for Debugging the Java Project with VSCode
 
