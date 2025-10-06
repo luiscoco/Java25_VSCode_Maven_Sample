@@ -2,6 +2,8 @@
 
 ## 1. Install VSCode
 
+https://code.visualstudio.com/download
+
 <img width="1372" height="939" alt="image" src="https://github.com/user-attachments/assets/862b17e7-6419-41c2-90f5-5cca23503d38" />
 
 ## 2. Install Java
