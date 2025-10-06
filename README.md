@@ -7,12 +7,6 @@
 
 ## 3. Install Maven
 
-https://maven.apache.org/download.cgi
-
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/b2363dec-8d60-4234-80de-a9904407953a" />
-
-https://maven.apache.org/install.html
-
 **Binary distribution**
 
 To install **Apache Maven**, extract the archive and add its bin directory to the **PATH**. 
@@ -20,6 +14,12 @@ To install **Apache Maven**, extract the archive and add its bin directory to th
 Detailed steps to install Maven:
 
 1. Download the Apache Maven binary distribution archive.
+
+https://maven.apache.org/download.cgi
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/b2363dec-8d60-4234-80de-a9904407953a" />
+
+https://maven.apache.org/install.html
 
 2. Extract the distribution archive in any directory and copy and paste into the ProgramFiles folder.
 
