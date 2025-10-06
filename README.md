@@ -90,10 +90,11 @@ Also we review the dependencies (pom.xml):
 
 We click on the "create a launch.json file" link
 
+<img width="653" height="407" alt="image" src="https://github.com/user-attachments/assets/d0932822-8756-4cd0-b28b-182e7c8b86fe" />
 
 And we select the debugger "Java"
 
-
+<img width="1038" height="423" alt="image" src="https://github.com/user-attachments/assets/d852d366-b1d8-46b2-b6ac-8652c34f2269" />
 
 We review the "launch.json" file content:
 
@@ -123,18 +124,27 @@ We review the "launch.json" file content:
 
 We set the debugging breakpoint in the code:
 
+<img width="518" height="407" alt="image" src="https://github.com/user-attachments/assets/4a28890e-83a0-4cf8-8f0d-be4d5b008e40" />
+
+<img width="1248" height="631" alt="image" src="https://github.com/user-attachments/assets/b4cb1e53-3ea8-4980-afc5-da44410ec846" />
 
 We start debugging 
 
+<img width="830" height="406" alt="image" src="https://github.com/user-attachments/assets/17165da8-2a83-4f67-a276-d9c5a449135b" />
+
 We chech the result
+
+<img width="1025" height="382" alt="image" src="https://github.com/user-attachments/assets/b5f175c3-f284-47f7-8d69-a4e0c7cc57d5" />
 
 ## 10. Running the application with Gemini
 
 Prompt: "please run the java project"
 
+<img width="572" height="983" alt="image" src="https://github.com/user-attachments/assets/d6d7d963-0c0d-48db-9e13-8851288d36ca" />
 
-## 11. Running the application with Copilot
+## 11. Running the application with Codex or Copilot
 
+ompt: "please run the java project"
 
 ## 12. How to Execute the Java Application with Maven
 
