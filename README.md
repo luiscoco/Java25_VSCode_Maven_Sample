@@ -237,6 +237,7 @@ mvn exec:java
 Or this command:
 
 ```
-mvn -f demo/pom.xml compile exec:java
+mvn -f pom.xml compile exec:java
 ```
 
+<img width="1254" height="528" alt="image" src="https://github.com/user-attachments/assets/dfb5f359-a734-4b6e-be0f-b219a0252f56" />
