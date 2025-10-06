@@ -33,7 +33,19 @@ Detailed steps to install Maven:
 
 ## 4. Install Extesion "Extension Pack for Java" in VSCode
 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/e1d3dafb-dd80-44f1-b5e5-a0e9b0894e2e" />
+
 ## 5. Install Extension "Gemini Code Assist" in VSCode
+
+This is an AI programmer agent:
+
+<img width="1525" height="608" alt="image" src="https://github.com/user-attachments/assets/61479a13-0cf9-48c7-92f8-3d86054fb3ec" />
+
+## 5. (Optional) Install Extension "Codex"
+
+This is an AI programmer agent:
+
+<img width="1536" height="557" alt="image" src="https://github.com/user-attachments/assets/927a265e-884e-4ca5-bb8d-24e075786a7e" />
 
 ## 6. Create a new Java Project with Maven
 
