@@ -226,19 +226,17 @@ Now we run these command to build and execute the Java project with Maven:
 mvn clean install
 ```
 
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ca97bcef-8884-41fe-a2ac-36621d90b65d" />
 
 ```
 mvn exec:java 
 ```
 
-
-
+<img width="1554" height="531" alt="image" src="https://github.com/user-attachments/assets/a0d0f33a-f58f-4088-8e33-40388cbf0853" />
 
 Or this command:
 
 ```
 mvn -f demo/pom.xml compile exec:java
 ```
-
-<img width="750" height="359" alt="image" src="https://github.com/user-attachments/assets/6ef0100f-ae61-4ad1-8e19-12f6d2f38d60" />
 
