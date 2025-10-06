@@ -7,6 +7,26 @@
 
 ## 3. Install Maven
 
+https://maven.apache.org/download.cgi
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/b2363dec-8d60-4234-80de-a9904407953a" />
+
+https://maven.apache.org/install.html
+
+**Binary distribution**
+
+To install **Apache Maven**, extract the archive and add its bin directory to the **PATH**. 
+
+Detailed steps to install Maven:
+
+1. Download the Apache Maven binary distribution archive.
+
+2. Extract the distribution archive in any directory. Use **unzip apache-maven-3.9.11-bin.zip** or tar xzvf apache-maven-3.9.11-bin.tar.gz depending on the archive.
+
+3. Add the **bin** directory of the created directory apache-maven-3.9.11 to the **PATH environment variable**
+
+4. Confirm with **mvn -v** in a new shell.
+
 ## 4. Install Extesion "Extension Pack for Java" in VSCode
 
 ## 5. Install Extension "Gemini Code Assist" in VSCode
