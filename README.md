@@ -21,11 +21,15 @@ Detailed steps to install Maven:
 
 1. Download the Apache Maven binary distribution archive.
 
-2. Extract the distribution archive in any directory. Use **unzip apache-maven-3.9.11-bin.zip** or tar xzvf apache-maven-3.9.11-bin.tar.gz depending on the archive.
+2. Extract the distribution archive in any directory and copy and paste into the ProgramFiles folder.
+
+<img width="1193" height="504" alt="image" src="https://github.com/user-attachments/assets/308f1b7a-0724-43c5-92c5-f8e5939dc340" />
 
 3. Add the **bin** directory of the created directory apache-maven-3.9.11 to the **PATH environment variable**
 
-4. Confirm with **mvn -v** in a new shell.
+<img width="827" height="773" alt="image" src="https://github.com/user-attachments/assets/50df4322-8e90-4478-af1b-6b714a9e2b7e" />
+
+5. Confirm with **mvn -v** in a new shell.
 
 ## 4. Install Extesion "Extension Pack for Java" in VSCode
 
