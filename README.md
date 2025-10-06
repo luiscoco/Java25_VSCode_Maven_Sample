@@ -38,6 +38,8 @@ https://maven.apache.org/install.html
 
 4. Confirm with **mvn -v** in a new shell.
 
+<img width="1479" height="422" alt="image" src="https://github.com/user-attachments/assets/c8127ac8-1fcb-4b59-b846-661ef8374dab" />
+
 ## 4. Install Extesion "Extension Pack for Java" in VSCode
 
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/e1d3dafb-dd80-44f1-b5e5-a0e9b0894e2e" />
